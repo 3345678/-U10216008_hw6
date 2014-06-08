@@ -1,5 +1,3 @@
-package chapter18;
-
 import javax.swing.Timer;
 import java.awt.*;
 import javax.swing.*;
